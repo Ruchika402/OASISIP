@@ -60,7 +60,7 @@ A tribute page created using **HTML and CSS** to honor a famous personality.
 
 ### Screenshot
 
-![Tribute Page](screenshots/tribute_page.png)
+![Tribute Page](Level2/Screenshots/tribute_page.png)
 
 ---
 
