@@ -46,7 +46,7 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**.
 ### Screenshot
 
 ![Calculator](screenshots/calculator.png)
-
+  
 ---
 
 ## 2️⃣ Tribute Page
@@ -116,7 +116,7 @@ OASISIP
 # Author
 
 **Ruchika Adak**  
-Web Development Intern
+
 
 ---
 
