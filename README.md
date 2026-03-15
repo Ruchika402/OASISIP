@@ -45,7 +45,7 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**.
 
 ### Screenshot
 
-![Calculator](screenshots/calculator.png)
+![Calculator]([screenshots/calculator.png](https://github.com/Ruchika402/OASISIP/blob/main/Level2/Screenshots/calculator.png))
   
 ---
 
