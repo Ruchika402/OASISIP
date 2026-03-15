@@ -92,7 +92,7 @@ A **user authentication system** developed using Django.
 
 ### Screenshot
 
-![Login System](screenshots/login_system.png)
+![Login System](Level2/Screenshots/login_system.png)
 
 ---
 
