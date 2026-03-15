@@ -76,7 +76,7 @@ A full-stack **task management web application** built using **Django**.
 
 ### Screenshot
 
-![Todo App](screenshots/todo_app.png)
+![Todo App](Level2/Screenshots/todo_app.png)
 
 ---
 
