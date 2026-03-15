@@ -45,7 +45,7 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**.
 
 ### Screenshot
 
-![Calculator]([Level2/Screenshots/calculator.png)
+![Calculator](Level2/Screenshots/calculator.png)
   
 ---
 
